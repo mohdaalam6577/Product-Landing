@@ -32,8 +32,7 @@ main{
 .product img{
     max-width: 100%;
     height: 200px;
-    /* display: block; */
-    margin-left: 25px; 
+    margin-left: 20px; 
     margin-bottom: 10px;
     border-radius: 5px;
 }
@@ -41,7 +40,6 @@ main{
 .product-info{
     max-width: 400px;
     text-align: center;
-    /* margin-right: 200px; */
 }
 
 .product-info h2{
